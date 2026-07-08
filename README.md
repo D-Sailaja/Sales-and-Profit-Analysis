@@ -59,8 +59,6 @@ Profit and Cost columns were derived using a fixed profit margin assumption for 
 
 ## Dashboard Preview
 
-Add your dashboard screenshot here after uploading:
-
 ![Dashboard Screenshot](Dashboard_Screenshot.png)
 
 ## Conclusion
